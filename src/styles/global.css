@@ -1,0 +1,4 @@
+html { scroll-behavior: smooth; scroll-padding-top: 72px; }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+body { overflow-x: hidden; }
+::selection { background: #9B8AFF; color: #0B0B0D; }
